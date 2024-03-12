@@ -1,0 +1,15 @@
+{
+    "name": "reveal-vite",
+    "version": "0.0.0",
+    "description": "Reveal.js presentation bundled with Vite.js",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "devDependencies": {
+        "reveal.js": "5.0.5",
+        "vite": "^5.1.5"
+    }
+}

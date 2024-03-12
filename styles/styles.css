@@ -1,0 +1,14 @@
+:root {
+    --r-heading-font: var(--r-main-font);
+    --r-heading-font-weight: bold;
+}
+
+.reveal code {
+    color: var(--r-main-color);
+    background-color: #44475A;
+    font-size: 18px;
+  }
+
+.reveal inline-code {
+    color: var(--r-main-color);
+}
